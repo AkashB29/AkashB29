@@ -123,13 +123,13 @@ Book-themed frontend website demonstrating responsive layouts and UI design.
 JavaScript, TypeScript, Python, Java, C, SQL  
 
 ### Frontend Technologies  
-React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap  
+React.js, Next.js, HTML5, CSS3, Tailwind CSS  
 
 ### Backend & Database  
 REST APIs, MySQL, MongoDB  
 
 ### Tools & Platforms  
-Git, GitHub, Docker, Vercel  
+Git, GitHub, Docker, Vercel 
 
 ### AI / Data Science  
 Machine Learning, Data Analysis, Predictive Modeling  
