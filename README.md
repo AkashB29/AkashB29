@@ -10,7 +10,7 @@ I am passionate about designing efficient systems, learning new technologies, an
 
 ### Book Haven – Digital Library Management System
 **Live:** https://books-haven.vercel.app  
-**GitHub:** https://github.com/Akash143l3/Book-Haven  
+**GitHub:** https://github.com/AkashB29/Book-Haven  
 
 Book Haven is a **responsive digital library management system** designed for administrators to efficiently manage library operations. The application works seamlessly across **desktop and mobile devices**.
 
@@ -65,7 +65,7 @@ A basic **book demo website** showcasing book-related layouts and content.
 ## Skills
 
 **Languages:**  
-JavaScript, TypeScript, Python, Java, C++, SQL  
+JavaScript, TypeScript, Python, Java, C, SQL  
 
 **Frameworks & Libraries:**  
 React, Next.js, Tailwind CSS, Bootstrap  
