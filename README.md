@@ -19,26 +19,6 @@ I am passionate about software development, problem-solving, and continuously le
 
 ## Projects  
 
-### SmartStudent AI – Academic Performance Prediction System  
-**Live:** https://smartstudent-ai.vercel.app   
-**GitHub:** https://github.com/AkashB29/SmartStudent-AI  
-
-Developed an AI-powered student analytics platform designed to help students understand learning patterns and estimate academic performance using machine learning models. The platform provides data-driven insights through an interactive and responsive dashboard.
-
-**Responsibilities & Features:**  
-- Built responsive frontend interface for student analysis  
-- Implemented score prediction and student behavior insights  
-- Created structured input forms for academic metrics  
-- Designed interactive dashboards for result visualization  
-- Developed personalized recommendation workflow  
-
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Python, Machine Learning  
-
-**GitHub About:**  
-AI-powered student performance prediction platform using machine learning for score estimation, learning pattern analysis, and academic insights.  
-
----
-
 ### Book Haven – Digital Library Management System  
 **Live:** https://books-haven.vercel.app  
 **GitHub:** https://github.com/AkashB29/Book-Haven  
