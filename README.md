@@ -20,7 +20,7 @@ I am passionate about software development, problem-solving, and continuously le
 ## Projects  
 
 ### SmartStudent AI – Academic Performance Prediction System  
-**Live:** https://smartstudent-ai.vercel.app 
+**Live:** https://smartstudent-ai.vercel.app   
 **GitHub:** https://github.com/AkashB29/SmartStudent-AI  
 
 Developed an AI-powered student analytics platform designed to help students understand learning patterns and estimate academic performance using machine learning models. The platform provides data-driven insights through an interactive and responsive dashboard. :contentReference[oaicite:0]{index=0}
