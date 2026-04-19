@@ -1,6 +1,6 @@
 # Hi, I'm Akash  
 
-I am a **Full-Stack Developer** with practical experience in designing and developing scalable, responsive, and user-centric web applications. I completed a **Full-Stack Developer Internship (January 2024 – April 2024)** at **J B Portals**, where I contributed to real-world projects involving frontend development, backend integration, and production-ready feature delivery in a startup environment.  
+I am a **Full-Stack Developer** with practical experience in designing and developing scalable, responsive, and user-focused web applications. I completed a **Full-Stack Developer Internship (January 2024 – April 2024)** at **J B Portals**, where I contributed to real-world projects involving frontend development, backend integration, and production-ready feature delivery in a startup environment.  
 
 I am passionate about software development, problem-solving, and continuously learning modern technologies to build impactful digital solutions.  
 
@@ -18,6 +18,26 @@ I am passionate about software development, problem-solving, and continuously le
 ---
 
 ## Projects  
+
+### SmartStudent AI – Academic Performance Prediction System  
+**Live:** https://smartstudent-ai.vercel.app 
+**GitHub:** https://github.com/AkashB29/SmartStudent-AI  
+
+Developed an AI-powered student analytics platform designed to help students understand learning patterns and estimate academic performance using machine learning models. The platform provides data-driven insights through an interactive and responsive dashboard. :contentReference[oaicite:0]{index=0}
+
+**Responsibilities & Features:**  
+- Built responsive frontend interface for student analysis  
+- Implemented score prediction and student behavior insights  
+- Created structured input forms for academic metrics  
+- Designed interactive dashboards for result visualization  
+- Developed personalized recommendation workflow  
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Python, Machine Learning  
+
+**GitHub About:**  
+AI-powered student performance prediction platform using machine learning for score estimation, learning pattern analysis, and academic insights.  
+
+---
 
 ### Book Haven – Digital Library Management System  
 **Live:** https://books-haven.vercel.app  
@@ -64,6 +84,9 @@ Built a rule-based chatbot for students to assist with academics, campus life, a
 
 **Tech Stack:** Next.js, JavaScript  
 
+**GitHub About:**  
+Rule-based student assistant chatbot for academics, campus life, and common college queries.  
+
 ---
 
 ### FinAdvisor – Personal Finance Chatbot  
@@ -73,12 +96,15 @@ Built a rule-based chatbot for students to assist with academics, campus life, a
 Developed an AI-powered finance assistant focused on budgeting, savings, and debt management using LLM integration.  
 
 **Responsibilities & Features:**  
-- Integrated Gemini / Groq APIs  
-- Designed domain-restricted chatbot system  
+- Integrated AI APIs for smart responses  
+- Designed finance-focused restricted chatbot system  
 - Built conversational finance guidance interface  
 - Focused on clean UX and structured responses  
 
 **Tech Stack:** Next.js, AI APIs, JavaScript  
+
+**GitHub About:**  
+Personal finance chatbot that helps users with budgeting, savings, and debt management using AI.  
 
 ---
 
@@ -125,15 +151,8 @@ REST APIs, MySQL, MongoDB
 ### Tools & Platforms  
 Git, GitHub, Docker, Vercel  
 
----
-
-## Strengths  
-
-- Strong problem-solving mindset  
-- Adaptability and quick learning ability  
-- Good communication and teamwork  
-- Attention to clean and maintainable code  
-- Passion for continuous improvement  
+### AI / Data Science  
+Machine Learning, Data Analysis, Predictive Modeling  
 
 ---
 
