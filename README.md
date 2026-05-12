@@ -145,5 +145,6 @@ To secure a challenging software development role where I can apply my technical
 ## Contact  
 
 **GitHub:** https://github.com/AkashB29  
+**Email:** Akashakashbr41@gmail.com 
 
 ---
